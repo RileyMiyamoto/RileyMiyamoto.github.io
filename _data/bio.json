@@ -22,18 +22,18 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Riley Miyamoto",
+        "url": "http://linkedin.com/in/rileymiyamoto"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "",
+        "url": ""
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -47,12 +47,15 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "Computer Hardware",
       "keywords": [
+        "Motherboards",
+        "Graphic Cards",
+        "Processors"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "",
       "keywords": [
       ]
     }
