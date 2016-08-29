@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: 
-title: 
+title: ICS Department Website
 permalink: ICS Department Website
 date: 2013
 labels:
