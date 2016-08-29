@@ -1,57 +1,55 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Riley Miyamoto",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://RileyMiyamoto.github.io/RileyMiyamoto.github.io/images/linkedein_pic.jpg",
+    "email": "rkma9@hawaii.edu",
+    "phone": "",
+    "website": "https://RileyMiyamoto.github.io",
+    "summary": "I am studying for a B.A. in Computer Science focusing on Information Technologies in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Fall, 2017.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "",
+      "city": "Wahiawa",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Riley Miyamoto",
+        "url": "http://github.com/RileyMiyamoto"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Riley Miyamoto",
+        "url": "http://linkedin.com/in/RileyMiyamoto"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "",
+        "url": ""
       },
       {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Network Technologies",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Computer Hardware",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "",
       "keywords": [
       ]
     }
@@ -64,20 +62,14 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Php"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+
       ]
     }
   ],
