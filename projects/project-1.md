@@ -10,8 +10,8 @@ labels:
   - Microsoft Access
 summary: My team developed an inventory database for a class project.
 ---
-<img class = "ui medium left float image" src = "../images/accessproject.jpg">
-<img class = "ui medium right float image" src = "../images/projectlogin.jpg">
+<img class = "ui medium left floated image" src = "../images/accessproject.jpg">
+<img class = "ui medium right floated image" src = "../images/projectlogin.jpg">
 
 At Leeward Community College for the class ICS 270, we were tasked with creating a database for a company. Our base program we were given to build it was Microsoft Access. We were also allowed to use other programs with it, so we chose to go with Microsoft Excel. We used Excel as the back end of the database, which information was stored. Access was used for the calculations as well as building forms and reports. We also created a manual for both users and technicians. The user manual explained how the front end of the database worked and the technicians manual explained how the back end was built.
 
