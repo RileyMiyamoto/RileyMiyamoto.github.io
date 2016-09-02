@@ -7,7 +7,7 @@ labels:
   - Software Engineering
   - Knowledge
 ---
-<img class="ui tiny left circular floated image" src="../images/evolution-of-man.jpg">
+<img class="ui medium left circular floated image" src="../images/evolution-of-man.jpg">
   Since I was a child I was taught that whenever I do something, that I should try my best and become the best that I could be. 
 This idea is what shaped me into the person that I am now. Unfortunately this hasn't always been the case. I guess to understand how 
 this all comes together we have to go a little into my past. Since elementary I have been fascinated with how things worked. I would take my toys
