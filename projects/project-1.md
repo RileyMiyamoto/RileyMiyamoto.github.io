@@ -20,8 +20,8 @@ At Leeward Community College for the class ICS 270, we were tasked with creating
 
 For this project, I was the team manager. I was responsible for planning the development process, which included setting dates for the completion of each task. I was as well incharge of keeping all members on track with the dates that were set. As a team we learned how to communicate with each other so that we can reach our end goal.
 
-[Access file:] (https://rileymiyamoto.github.io/download/FinalProjectUpdate.accdb).
-[Excel file:] (https://RileyMiyamoto.github.io/downloads/AccessBackend.xls).
+[Access file](https://rileymiyamoto.github.io/downloads/FinalProjectUpdate.accdb).
+[Excel file](https://rileymiyamoto.github.io/downloads/AccessBackend.xls).
 
 
 
