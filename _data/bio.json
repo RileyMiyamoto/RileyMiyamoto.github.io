@@ -52,6 +52,11 @@ interests:
       - "Graphic Cards"
       - Processors
     name: "Computer Hardware"
+  -
+    keywords:
+      - Android
+      - Apple
+    name: "Mobile Devices"
 references: 
   - 
     name: "Available upon request"
@@ -63,8 +68,15 @@ skills:
       - C++
       - Java
       - Php
+      - Sql
     level: ""
     name: "Languages and Frameworks"
+  -
+    keywords:
+      - Windows
+      - mySql
+      - phpmyAdmin
+    name: "Toolsets/OS"
 work: 
   - 
     company: "DigiTech Solutions, LLC"
