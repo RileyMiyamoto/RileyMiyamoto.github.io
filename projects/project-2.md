@@ -4,6 +4,7 @@ type: project
 image: images/OSproject.jpg
 title: Operating System
 permalink: 
+link: projects/SociOS.pdf
 date: 2014
 labels:
   - Linux
