@@ -3,8 +3,8 @@ layout: project
 type: project
 image: images/OSproject.jpg
 title: Operating System
-permalink: 
-date: 2013
+permalink: project/SociOS.pdf 
+date: 2014
 labels:
   - Linux
 summary: A plausible operating system that was created for ICS class
