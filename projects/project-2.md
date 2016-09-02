@@ -9,7 +9,7 @@ labels:
   - Linux
 summary: A plausible operating system that was created for ICS class
 ---
-<img class = "ui image" src = "../images/OSproject.jpg">
+<img class = "ui  circular image" src = "../images/OSproject.jpg">
 
 My teams operating system was designed to be a plausible system that could actually be built.
 
