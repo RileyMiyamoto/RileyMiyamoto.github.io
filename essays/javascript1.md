@@ -6,6 +6,7 @@ date: 2016-09-01
 labels:
   - Software Engineering
   - Knowledge
+  - Reflection
 ---
 
 It's the end of the first two weeks of being introduced to javascript and I feel that after more time using this programming language I'll
