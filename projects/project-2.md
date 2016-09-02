@@ -2,6 +2,7 @@
 layout: project
 type: project
 image: images/OSproject.jpg
+file:
 title: Operating System
 permalink: 
 date: 2014
