@@ -9,7 +9,7 @@ labels:
   - Reflection
 ---
 
-<img class="ui tiny left circular floated image" src="../images/javascriptlogo.png">
+<img class="ui tiny medium circular floated image" src="../images/javascriptlogo.png">
 
 It's the end of the first two weeks of being introduced to javascript and I feel that after more time using this programming language I'll
 start to like it. I've seen javascript before, but this was about 13 years ago when MySpace was big and every kid thought they were cool
