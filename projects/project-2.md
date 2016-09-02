@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/OSproject.jpg
-file:
+file: /projects/SociOS.pdf
 title: Operating System
 permalink: 
 date: 2014
