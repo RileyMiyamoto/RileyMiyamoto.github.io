@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/OSproject.jpg
 title: Operating System
-permalink: project/SociOS.docx
+permalink: 
 date: 2014
 labels:
   - Linux
@@ -15,4 +15,6 @@ My teams operating system was designed to be a plausible system that could actua
 
 In order for us to create this plausible operating system we had to do research on each component. This meant we researched what it took to create a linux operating system.
 
+
+Source: <a href="https://github.com/RileyMiyamoto/projects/SociOS.docx"><i class="large github icon"></i></a>
  
