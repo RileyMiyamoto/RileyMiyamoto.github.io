@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/OSproject.jpg
 title: Operating System
-permalink: project/SociOS.pdf 
+permalink: project/SociOS 
 date: 2014
 labels:
   - Linux
