@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: RileyMiyamoto.github.io/RileyMiyamoto.github.io/images/OSproject.jpg
 title: Operating System
 permalink: 
 date: 2013
