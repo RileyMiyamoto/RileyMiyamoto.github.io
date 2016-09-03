@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/computer-pic.jpg
 title: Perosnal Computer Build
 permalink:
 date: 2016
