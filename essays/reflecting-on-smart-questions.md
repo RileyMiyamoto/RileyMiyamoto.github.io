@@ -8,7 +8,7 @@ labels:
   - Reflection
 ---
 
-<img class="ui medium circular floated image" src="../images/stack-overflow.png">
+<img class="ui tiny circular floated image" src="../images/stack-overflow.png">
 
 The way you format your question and the reasoning for your question are factors on determining if your question is a smart one.
 I'm not saying that some people are stupid because of the questions they ask, but rather they could benefit more if they thought about what
