@@ -2,11 +2,12 @@
 layout: essay
 type: essay
 title: IntelliJ: New way of thinking
-date: 2016-09-01
+date: 2016-29-09
 labels:
   - Software Engineering
   - Knowledge
   - Reflection
+  - IntelliJ
 ---
 
 <img class="medium circular floated image" src="../images/intellij_pic.jpg">
