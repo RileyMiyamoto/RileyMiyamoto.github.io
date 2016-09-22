@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: IntelliJ: New way of thinking
-date: 2016-09-29
+date: 2016-09-22
 labels:
   - Software Engineering
   - Knowledge
