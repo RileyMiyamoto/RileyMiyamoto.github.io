@@ -1,91 +1,141 @@
---- 
-basics: 
-  email: rkam9@hawaii.edu
-  label: Student
-  location: 
-    address: ""
-    city: ""
-    countryCode: ""
-    postalCode: ""
-    region: ""
-  name: "Riley Miyamoto"
-  phone: ""
-  picture: "https://RileyMiyamoto.github.io/RileyMiyamoto.github.io/images/linkedein_pic.jpg"
-  profiles: 
-    - 
-      network: github
-      url: "http://github.com/RileyMiyamoto"
-      username: "Riley Miyamoto"
-    - 
-      network: linkedin
-      url: "http://linkedin.com/in/rileymiyamoto"
-      username: "Riley Miyamoto"
-  summary: "I am studying for a B.A. in Computer Science focusing on Information Technologies in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Fall, 2017."
-  website: "https://RileyMiyamoto.github.io"
-education: 
-  - 
-    area: "Computer Science (expected Fall, 2017)"
-    courses: []
-    endDate: Present
-    gpa: ""
-    institution: "University of Hawaii, Honolulu, HI"
-    startDate: "2016-09-01"
-    studyType: B.A.
-  - 
-    area: "Computer Science (graduated Summer, 2014)"
-    courses: []
-    endDate: 2016-7-25
-    gpa: "3.2"
-    institution: "Leeward Community College, Pearl City, HI"
-    startDate: 2009-8-1
-    studyType: A.S.
-interests: 
-  - 
-    keywords: 
-      - Routers
-      - Switches
-      - Servers
-    name: "Network Technologies"
-  - 
-    keywords: 
-      - Motherboards
-      - "Graphic Cards"
-      - Processors
-    name: "Computer Hardware"
-  -
-    keywords:
-      - Android
-      - Apple
-    name: "Mobile Devices"
-references: 
-  - 
-    name: "Available upon request"
-    reference: ""
-skills: 
-  - 
-    keywords: 
-      - C
-      - C++
-      - Java
-      - Php
-      - Sql
-    level: ""
-    name: "Languages and Frameworks"
-  -
-    keywords:
-      - Windows
-      - mySql
-      - phpmyAdmin
-    name: "Toolsets/OS"
-work: 
-  - 
-    company: "DigiTech Solutions, LLC"
-    endDate: 2014-05
-    highlights: 
-      - "Computer maintanence"
-      - "Computer performance analysis"
-      - "Delivery and set up of machines"
-    position: Intern
-    startDate: 2014-05
-    summary: Internship
-    website: ""
+{
+  "basics": {
+    "name": "Riley Miyamoto",
+    "label": "Student",
+    "picture": "https://RileyMiyamoto.github.io/RileyMiyamoto.github.io/images/linkedein_pic.jpg",
+    "email": "rkam9@hawaii.edu",
+    "phone": "",
+    "website": "https://RileyMiyamoto.github.io",
+    "summary": "I am studying for a B.A. in Computer Science focusing on Information Technologies in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2018.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "RileyMiyamoto",
+        "url": "http://github.com/RileyMiyamoto"
+      },
+      {
+        "network": "linkedin",
+        "username": "rileymiyamoto",
+        "url": "http://linkedin.com/in/rileymiyamoto"
+      },
+    ]
+  },
+  "interests": [
+    {
+      "name": "Network Technologies",
+      "keywords": [
+        "Routers",
+        "Switches",
+        "Servers"
+      ]
+    },
+    {
+      "name": "Computer Hardware",
+      "keywords": [
+        "Processors",
+        "Graphic Cards",
+        "Motherboards"
+      ]
+    },
+    {
+      "name": "Mobile Devices",
+      "keywords": [
+        "Apple",
+        "Android"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Php",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Windows",
+        "phpmyAdmin",
+        "mySQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.A.",
+      "startDate": "2016-09-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+    }
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Computer Science (graduated Summer, 2014)",
+      "studyType": "A.S.",
+      "startDate": "2009-08-01",
+      "endDate": "2016-07-25",
+      "gpa": "3.2",
+      "courses":[
+    ]
+  }
+  ],
+  "work": [
+    {
+      "company": "DigiTech Solutions, LLC",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2014-05",
+      "endDate": "2014-05",
+      "summary": "",
+      "highlights": [
+        "Computer maintanence",
+        "Computer performace analysis",
+        "Delivery and set up of machines"
+      ]
+    },
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
+  
