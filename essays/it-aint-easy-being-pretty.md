@@ -10,7 +10,7 @@ labels:
   - UI Frameworks
 ---
 <img class="ui tiny  circular floated image" src="../images/semantic-logo.png">
-<img class="ui medium floated image" src="../images/islandsnow.png">
+
 During my time studying computer science there has always been one rule that I try to follow, and that is to make sure
 it works. I always put the function of a program before the looks of it. So what happens now that the appearance is the program?
 Slowly I'm learning the importance of appearance, but I'm also learning that it's not so easy. UI Frameworks adds a different element to
@@ -20,4 +20,4 @@ of like learning to ride a bicycle. You start off with the basics just like trai
 complicated concepts. You may fall over a few times and get discouraged, but you just have to keep going and eventually it becomes easier. I'm
 not saying that I'm an expert on UI Frameworks, but I am definitely better than when I first started.
 
-<img class="ui medium floated image" src="../images/asus_after.png">
+<img class="ui medium floated image" src="../images/asus_after.png"><img class="ui medium floated image" src="../images/islandsnow.png">
