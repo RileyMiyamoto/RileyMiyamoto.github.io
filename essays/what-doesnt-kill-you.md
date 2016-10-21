@@ -10,6 +10,7 @@ labels:
   - Meteor
 ---
 
+<img class="ui tiny  circular floated image" src="../images/meteor-logo.png">
 So where to begin with Meteor? First off I'd like to say is that I still have all my hair. Secondly I think I'm starting to like meteor.
 Getting into Meteor was simple, nothing too out of the ordinary. As I dove furhter I found that the learning curve wasn't so nice. It took 
 some time to get use to it, but looking back on it now, it's not so bad. Unless you count the amount of time on the internet trying to get it
