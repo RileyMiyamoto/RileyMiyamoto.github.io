@@ -18,4 +18,4 @@ to work. Setting that aside I did have some fun using meteor. What I found most 
 In traditional ways information was stored on a server and a client would make a request to retrieve the data. In meteor the portion of which 
 the client wants to retrieve is taken from the server and placed on the server. This method in my opinion is a much more efficient and reliant
 way of altering data. 
-<img class="ui tiny floated image" src="../images/digist.png">
+<img class="ui image" src="../images/digist.png">
