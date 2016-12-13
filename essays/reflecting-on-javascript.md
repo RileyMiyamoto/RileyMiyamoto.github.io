@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Reflecting on Javascript
-date: 2016-09-01
+title: A new language, a new perspective
+date: 2016-12-13
 labels:
   - Software Engineering
   - Knowledge
