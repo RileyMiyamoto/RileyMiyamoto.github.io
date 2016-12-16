@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: 
-title: images/home.png
+image: images/home.png
+title: Brain Food
 permalink: 
 date: 2016-12-13
 labels:
