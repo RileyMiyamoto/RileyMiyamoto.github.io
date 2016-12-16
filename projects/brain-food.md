@@ -21,7 +21,7 @@ As for my personal contributions, I was tasked with adding the Google Maps API t
 Account Page
 <img class = "ui floated image" src = "../images/account.png"> 
 
-Edit Account Pages
+Edit Account Page
 <img class = "ui flaoted image" src = "../images/edit-account.png"> 
 
 Google Maps Page
