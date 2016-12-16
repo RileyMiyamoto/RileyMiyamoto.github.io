@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/home.png
 title: Brain Food
-permalink: 
+permalink: https://brain-food.github.io/
 date: 2016-12-13
 labels:
   - Meteor
