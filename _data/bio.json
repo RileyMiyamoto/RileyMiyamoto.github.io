@@ -72,6 +72,7 @@
         "CSS",
         "HTML",
         "JavaScript",
+        "Meteor"
       ]
     },
     {
@@ -80,7 +81,8 @@
       "keywords": [
         "Windows",
         "phpmyAdmin",
-        "mySQL"
+        "mySQL",
+        "IntelliJ"
       ]
     }
   ],
