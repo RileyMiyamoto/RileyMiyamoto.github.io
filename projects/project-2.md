@@ -7,6 +7,7 @@ permalink:
 date: 2014
 labels:
   - Linux
+  - Operating Systems
 summary: A plausible operating system that was created for ICS class
 ---
 <img class = "ui  circular image" src = "../images/OSproject.jpg">
